@@ -8,7 +8,9 @@ function App() {
       <div className={classes.nav}>
         <MainMenu></MainMenu>
       </div>
+
       <div className={classes.empty}></div>
+      
       <div className={classes.content}>
         <Content></Content>
       </div>
