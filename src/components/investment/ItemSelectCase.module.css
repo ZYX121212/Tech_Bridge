@@ -1,0 +1,7 @@
+.selectorBox {
+  display: flex;
+  background-color: #babaf2;
+  flex-direction: column;
+  margin: 10px 20px;
+  padding-left:20px ;
+}

@@ -1,0 +1,14 @@
+.box{
+  width: 150rem;
+  height: 150rem;
+  background-color: #ebf7eb;
+  text-align: center;
+  line-height: 150rem;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 10px;
+}
+.box:hover{
+  background-color: #4a7d67;
+  color: #FF4500;
+}

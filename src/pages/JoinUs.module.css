@@ -1,0 +1,10 @@
+.joinList {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: 0 auto;
+  position: relative;
+  height: 150rem;
+
+}

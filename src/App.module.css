@@ -1,0 +1,23 @@
+.layout {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav {
+  background-color: #d5a984;
+  width: 100px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+}
+
+.content {
+  flex-grow: 1;
+  background-color: #ffefd9;
+  border: 2px solid white;
+  height: 100vh;
+}
+
+.empty {
+  width: 100px;
+}
